@@ -18,7 +18,7 @@ namespace Bridge.Shape
 
         public override void Draw()
         {
-           Console.WriteLine("Draw Square");
+           Console.WriteLine("Draw Square :" +GetColor());
         }
     }
 }
